@@ -9,6 +9,8 @@ Previous coursework:
 
 
 Other projects:
+- [Evaluate algorithm performance for colorectal cancer diagnosis](https://github.com/yichenlu47/uw_capstone_project)
+  - team collaboration with Fred Hutchinson Cancer Research Center
 - [CV in biomarker development](https://github.com/yichenlu47/simulation-2020): exploratory simulation to understand how different cross-validation methods impact the estimation of effect size
 - [Maternal HIV in Kenya](https://github.com/yichenlu47/hiv_kenya): identify factors (e.g. timing of diagnosis) that significantly associate with maternal HIV status in Kenya. Adopted survey weights to compensate for over-sampling in dense regions and used a generalized estimating equation to account for correlation among viral load measures
 

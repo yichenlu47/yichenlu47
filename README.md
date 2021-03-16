@@ -6,7 +6,9 @@ My homework and project code for previous coursework ⚡
 - [BIOST 514 Biostatistics I](https://github.com/yichenlu47/applied_biostatistics)
 - [BIOST 515 Applied Biostatistics II: Introduction to Regression Analysis](https://github.com/yichenlu47/applied_biostatistics_regression_analysis)
 - [BIOST 527 Nonparametric Regression and Classification](https://github.com/yichenlu47/nonparametric_regression_classification)
+- [BIOST 537: Survival Data Analysis in Epidemiology](https://github.com/yichenlu47/survival_data_analysis_epidemiology)
 - [BIOST 561 Computational Skills for Biostatistics I](https://github.com/yichenlu47/computational_skills_biostatistics)
+- [STAT 554 Statistical Methods For Spatial Data](https://github.com/yichenlu47/statistical_method_spatial_data)
 
 
 My programs for other projects 🌱

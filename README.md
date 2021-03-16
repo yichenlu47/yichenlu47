@@ -10,8 +10,7 @@ My homework and project code for previous coursework ⚡
 - [BIOST 561 Computational Skills for Biostatistics I](https://github.com/yichenlu47/computational_skills_biostatistics)
 - [STAT 554 Statistical Methods For Spatial Data](https://github.com/yichenlu47/statistical_method_spatial_data)
 
-
-My programs for other projects 🌱
+Other projects 🌱
 - [Evaluate algorithm performance for colorectal cancer diagnosis](https://github.com/yichenlu47/uw_capstone_project)
   - team collaboration with Fred Hutchinson Cancer Research Center
   - calculate Kappa statistics and perform bootstrapping to evaluate the accuracy of an algorithm using administrative data to identify colorectal cancer participants in the Women's Health Initiative study

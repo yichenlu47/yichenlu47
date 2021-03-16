@@ -3,8 +3,8 @@
 I am a full-time student passionate about using data to improve quality of life for patients. I use this page to keep track of my past projects for school and for personal interests. My work updates can be found on <a href="https://www.linkedin.com/in/yichenlu0416/">LinkedIn</a> 💼
 
 My homework and project code for previous coursework ⚡
-- [BIOST 514 Biostatistics I](https://github.com/yichenlu47/applied_biostatistics)
-- [BIOST 515 Applied Biostatistics II: Introduction to Regression Analysis](https://github.com/yichenlu47/applied_biostatistics_regression_analysis)
+- [BIOST 514 Biostatistics](https://github.com/yichenlu47/applied_biostatistics)
+- [BIOST 515 Introduction to Regression Analysis](https://github.com/yichenlu47/regression_analysis)
 - [BIOST 527 Nonparametric Regression and Classification](https://github.com/yichenlu47/nonparametric_regression_classification)
 - [BIOST 537: Survival Data Analysis in Epidemiology](https://github.com/yichenlu47/survival_data_analysis_epidemiology)
 - [BIOST 544: Introduction To Biomedical Data Science](https://github.com/yichenlu47/biomedical_data_science)

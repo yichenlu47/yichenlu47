@@ -12,6 +12,11 @@ My homework and project code for previous coursework ⚡
 - [STAT 554 Statistical Methods For Spatial Data](https://github.com/yichenlu47/statistical_method_spatial_data)
 
 Other projects 🌱
+- [Hybrid control]
+  - internship project with Genentech
+  - R package for assessing the 
+  - install with remotes::install_github("Genentech/psborrow")
+  - 
 - [Evaluate algorithm performance for colorectal cancer diagnosis](https://github.com/yichenlu47/uw_capstone_project)
   - team collaboration with Fred Hutchinson Cancer Research Center
   - calculate Kappa statistics and perform bootstrapping to evaluate the accuracy of an algorithm using administrative data to identify colorectal cancer participants in the Women's Health Initiative study

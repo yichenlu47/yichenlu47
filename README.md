@@ -3,7 +3,7 @@
 I am a full-time student passionate about using data to improve quality of life for patients. I use this page to keep track of my past projects for school and for personal interests. My work updates can be found on <a href="https://www.linkedin.com/in/yichenlu0416/">LinkedIn</a> 💼
 
 My projects 🌱
-- [Hybrid control]
+- [Hybrid control](https://github.com/Genentech/psborrow)
   - internship project with Genentech
   - R package for simulating trial data and estimating the impact of borrowing from already-completed trial data when designing future studies
   - install with remotes::install_github("Genentech/psborrow")
